@@ -7,7 +7,7 @@
 ## The Project
 Every dog owner knows the struggle of moving to a new place and not knowing anyone else with a dog. However, dogs need to socialize too! This is why we created **PuppR**.
 
-**PuppR** is a dating site for dogs! Dog owners can create a profile for their pup, and start swiping through other dogs in their area. If they want to meet a dog, they can "like" their profile, and if that dog likes them back, it's a match! From there, the two users can decide to contact each other and organize a playdate for their dogs. If they don't like that dog, they can just "pass" it.
+[**PuppR**](https://puppr.best/) is a dating site for dogs! Dog owners can create a profile for their pup, and start swiping through other dogs in their area. If they want to meet a dog, they can "like" their profile, and if that dog likes them back, it's a match! From there, the two users can decide to contact each other and organize a playdate for their dogs. If they don't like that dog, they can just "pass" it.
 
 Other features include: editing the dog's profile, modifying the user settings, and a "previous" button to see the previous profile again.
 
@@ -23,10 +23,21 @@ We are three dog enthusiasts who are passionate about coding but also like to ke
 
 Follow us on Twitter for more dog and tech related awesomeness!
 
+## Blog posts
+After the development phase, we each wrote a blog post to reflect on the PuppR journey.
+
+* Marc's article: [PuppR: It’s Like Tinder For Dogs](https://medium.com/@mcavigli/puppr-its-like-tinder-for-dogs-c498bf4bdd9b)
+* Drew's article: [PuppR: The social app for dog people](https://medium.com/@andrew.maring/puppr-the-social-app-for-dog-people-dcdb1c496f29)
+* Laura's article: [PuppR: Learnings from building a dating site for dogs](https://medium.com/@laura.derohan/learnings-from-building-a-dating-site-for-dogs-70f4d649f2b3)
+
 # Tutorial
 
 ## Take a tour of the deployed version at puppr.best
 -> [**PuppR**](https://puppr.best/)
+
+Here is a little preview of our main feature, the swiping through other dogs' profiles:
+
+![swiping](./public/icons/browse_no_text.png)
 
 Here is a simple flow for the user experience on PuppR:
 
@@ -54,7 +65,7 @@ When you are finished simply go back to your terminal and hit `ctrl + c` to quit
 # Architecture
 
 ## Overview
-Our web app is a single-page app, coded mainly in Node.js. **PuppR** is front-end heavy, meaning that we focused our time and energy in developping a simple but easy to use and fun app. We designed most of the User Interface, using plain CSS and some native Vue transitions and animations. We also incorporated some BootstrapVue elements which offered a simple solution for some features like image uploading.
+Our web app is a single-page app, coded mainly in Javascript. **PuppR** is front-end heavy, meaning that we focused our time and energy in developping a simple but easy to use and fun app. We designed most of the User Interface, using plain CSS and some native Vue transitions and animations. We also incorporated some BootstrapVue elements which offered a simple solution for some features like image uploading.
 
 ![infra](https://i.imgur.com/fSbo6ho.jpg)
 
@@ -113,3 +124,14 @@ The obvious choice for storing users' dog photos. It provides straightforward im
 * Valentin Roudge - For his help and advice in Node.js and architecture best practices.
 
 * YOU - For reading this documentation and testing out **PuppR**. We hope you enjoyed the ride!
+
+# Related projects
+
+* [AirBnB Clone](https://github.com/lroudge/AirBnB_clone_v4): a simple web app made in Python, Flask, and JQuery.
+
+* [Simple Shell](https://github.com/scurry222/simple_shell): a command line interpreter that replicates the sh program.
+
+# License
+
+MIT License
+

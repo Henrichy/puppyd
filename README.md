@@ -111,9 +111,9 @@ The obvious choice for storing users' dog photos. It provides straightforward im
 
 # Acknowledgments
 
-* Holberton School staff - For the help, advice and resources they provided us with during this project and during all our curriculum.
+* ALX SE School staff - For the help, advice and resources they provided us with during this project and during all our curriculum.
 
-* Cohort 8 and all Holberton students - For your friendship, invaluable support, and insight not only for this project, but over the last year.
+* Cohort 10 and all ALX SE students - For your friendship, invaluable support, and insight not only for this project, but over the last year.
 
 * Our dogs (or friends' dogs) - For the inspiration, courage and love they brought us when we were working hard and tired.
 
